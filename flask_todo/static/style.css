@@ -1,0 +1,28 @@
+body{
+    background-color: aquamarine;
+   }
+
+button{
+    border-radius: 10px;
+    background-color: green;
+    color: antiquewhite;
+}
+
+.container {
+    margin-top: 16%;
+    margin-left: 35%;
+  }
+
+.b1{
+    border-radius: 10px;
+    background-color:yellow;
+}
+
+.b2{
+    border-radius: 10px;
+    background-color: red;
+}
+
+td{
+    padding:30px;
+}
